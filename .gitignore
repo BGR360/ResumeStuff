@@ -1,0 +1,8 @@
+# Icky Mac files
+*.DS_Store
+
+# Ignore everything in the Portfolio folder
+Portfolio/*
+
+# Shhhhhhh
+Passwords/*
