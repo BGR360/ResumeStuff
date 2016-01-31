@@ -1,13 +1,7 @@
 # Icky Mac files
 *.DS_Store
 
-# Ignore everything in the Portfolio folder
-Portfolio/*
-
-# Shhhhhhh
-Passwords/*
-
-# Just ignore everything that isn't a resume (or the gitignore)
-*
-!*Resume*
-!.gitignore
+# Ignore everything that's not in Resume/
+/*
+/*/
+!/Resume/
